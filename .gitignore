@@ -1,0 +1,6 @@
+/bin/
+/cmd/
+/pkg/mod/
+.idea/
+*.exe
+*.out
